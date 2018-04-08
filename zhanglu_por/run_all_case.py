@@ -101,7 +101,7 @@ if __name__ == "__main__":
     report_file = get_report_file(report_path)  # 3 获取最新的测试报告
     # 邮箱配置
     sender = "zhanglu1258@foxmail.com"
-    psw = "zhanglu521@123"
+    psw = "123456"
     smtp_server = "smtp.qq.com"
     port = 465
     receiver = "zhanglu1258@foxmail.com"
